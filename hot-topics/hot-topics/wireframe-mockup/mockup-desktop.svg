@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 480">
+  <rect width="940" height="480" fill="#EDEAE0"/>
+  <text x="30" y="30" font-family="Georgia, serif" font-size="18" fill="#12312C" font-weight="bold">HOME — DESKTOP MOCKUP</text>
+  <text x="500" y="30" font-family="Georgia, serif" font-size="18" fill="#12312C" font-weight="bold">PORTFOLIO — DESKTOP MOCKUP</text>
+
+  <!-- HOME MOCKUP -->
+  <g transform="translate(30,50)">
+    <rect width="420" height="410" fill="#F4F1E6" stroke="#12312C"/>
+    <rect width="420" height="30" fill="#12312C"/>
+    <text x="14" y="20" font-family="Georgia, serif" font-size="13" fill="#F4F1E6">COMMONPLACE — Home  Portfolio</text>
+    <rect y="30" width="420" height="70" fill="#1B5E5A"/>
+    <text x="14" y="72" font-family="Georgia, serif" font-size="20" fill="#F4F1E6">field notes on now &amp; next</text>
+    <rect x="20" y="118" width="150" height="80" fill="#3E8F7C"/>
+    <rect x="182" y="118" width="220" height="12" fill="#12312C"/>
+    <rect x="182" y="138" width="220" height="6" fill="#9CA79E"/>
+    <rect x="182" y="150" width="220" height="6" fill="#9CA79E"/>
+    <rect x="182" y="162" width="220" height="6" fill="#9CA79E"/>
+    <rect x="20" y="212" width="150" height="80" fill="#7FB069"/>
+    <rect x="182" y="212" width="220" height="12" fill="#12312C"/>
+    <rect x="182" y="232" width="220" height="6" fill="#9CA79E"/>
+    <rect x="182" y="244" width="220" height="6" fill="#9CA79E"/>
+    <rect x="20" y="306" width="150" height="80" fill="#1B5E5A"/>
+    <rect x="182" y="306" width="220" height="12" fill="#12312C"/>
+    <rect x="182" y="326" width="220" height="6" fill="#9CA79E"/>
+    <rect x="0" y="390" width="420" height="20" fill="#12312C"/>
+  </g>
+
+  <!-- PORTFOLIO MOCKUP -->
+  <g transform="translate(490,50)">
+    <rect width="420" height="410" fill="#F4F1E6" stroke="#12312C"/>
+    <rect width="420" height="30" fill="#12312C"/>
+    <text x="14" y="20" font-family="Georgia, serif" font-size="13" fill="#F4F1E6">COMMONPLACE — Home  Portfolio</text>
+    <rect y="30" width="420" height="50" fill="#1B5E5A"/>
+    <text x="14" y="60" font-family="Georgia, serif" font-size="18" fill="#F4F1E6">the archive</text>
+    <g fill="#3E8F7C">
+      <rect x="20" y="96" width="120" height="90"/>
+      <rect x="150" y="96" width="120" height="90" fill="#7FB069"/>
+      <rect x="280" y="96" width="120" height="90" fill="#1B5E5A"/>
+      <rect x="20" y="196" width="120" height="90" fill="#7FB069"/>
+      <rect x="150" y="196" width="120" height="90" fill="#1B5E5A"/>
+      <rect x="280" y="196" width="120" height="90" fill="#3E8F7C"/>
+    </g>
+    <rect x="0" y="390" width="420" height="20" fill="#12312C"/>
+  </g>
+</svg>

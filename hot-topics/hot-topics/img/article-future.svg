@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#F4F1E6"/>
+  <g stroke="#12312C" stroke-opacity="0.06" stroke-width="2">
+    <line x1="0" y1="60" x2="600" y2="60"/>
+    <line x1="0" y1="120" x2="600" y2="120"/>
+    <line x1="0" y1="180" x2="600" y2="180"/>
+    <line x1="0" y1="240" x2="600" y2="240"/>
+    <line x1="0" y1="300" x2="600" y2="300"/>
+    <line x1="0" y1="360" x2="600" y2="360"/>
+  </g>
+  <circle cx="470" cy="90" r="46" fill="#7FB069" fill-opacity="0.5"/>
+  <line x1="0" y1="300" x2="600" y2="300" stroke="#12312C" stroke-width="3"/>
+  <g fill="#1B5E5A">
+    <rect x="60" y="180" width="34" height="120"/>
+    <rect x="104" y="140" width="28" height="160"/>
+    <rect x="142" y="200" width="40" height="100"/>
+  </g>
+  <g fill="#3E8F7C">
+    <rect x="220" y="110" width="30" height="190"/>
+    <polygon points="220,110 235,80 250,110"/>
+    <rect x="260" y="160" width="24" height="140"/>
+    <rect x="294" y="90" width="34" height="210"/>
+  </g>
+  <g fill="#12312C">
+    <rect x="350" y="150" width="26" height="150"/>
+    <rect x="386" y="200" width="60" height="100"/>
+    <circle cx="416" cy="185" r="16" fill="none" stroke="#12312C" stroke-width="4"/>
+  </g>
+  <path d="M0 300 Q60 260 130 280 T260 270 T400 285 T600 260" fill="none" stroke="#7FB069" stroke-width="4" stroke-dasharray="2 8"/>
+</svg>
